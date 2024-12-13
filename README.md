@@ -1,5 +1,5 @@
-# Screencast API Documentation (app.screencast.com)
-Welcome to the Public API documentation for app.screencast.com.
+# Public Screencast API Documentation
+Welcome to the public API documentation for app.screencast.com.
 
 **[only public information should be put in here]**
 
